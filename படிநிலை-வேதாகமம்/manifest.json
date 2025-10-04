@@ -1,0 +1,22 @@
+{
+  "name": "படிநிலை வேதாகமம்",
+  "short_name": "படிநிலை வேதாகமம்",
+  "description": "படிநிலை வேதாகமம் - Interlinear / Inerlayer Bible in Tamil, from www.wordofgod.in",
+  "start_url": "/good-news-collections/படிநிலை-வேதாகமம்/",
+  "scope": "/good-news-collections/படிநிலை-வேதாகமம்/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "icons": [
+    {
+      "src": "/good-news-collections/படிநிலை-வேதாகமம்/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/good-news-collections/படிநிலை-வேதாகமம்/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
